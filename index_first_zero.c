@@ -1,4 +1,3 @@
- #include <stdio.h>
 #include "index_first_zero.h"
 
 int index_first_zero(int arr[], int len) {
