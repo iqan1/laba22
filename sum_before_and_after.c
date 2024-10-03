@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "sum_before_and_after.h"
 #include <stdlib.h>
 

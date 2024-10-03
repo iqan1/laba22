@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include "sum_between.h"
 int sum_between(int arr[], int len, int first_zero, int last_zero) {
